@@ -1,5 +1,9 @@
 # Rainforest
 
+<a href="https://discord-themes.com/theme/36">
+  <img src="https://discord-themes.com/badge.png" alt="Description" width="240" />
+</a>
+
 A green rainforest background
 
 Vencord link: https://vencordthemer.github.io/Rainforest/rainy.theme.css
